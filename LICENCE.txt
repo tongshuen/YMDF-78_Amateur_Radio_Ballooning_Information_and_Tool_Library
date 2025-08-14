@@ -17,5 +17,5 @@ For new files, a new directory should be created in the appropriate path, and th
 ◦ Please correct it, otherwise the warehouse owner has the right to delete the directory or file.
 [i] We recommend using lossless compression formats (such as .flac, .png), and the original format (such as .wav, .bmp) needs to be lossless compressed;If the video is difficult to compress without loss, it is recommended to pack it as .tar.gz. Compressed files (such as .mp3, .jpeg) do not need to be converted to .flac or .png format
 
-童顺 (English name: Tong shun)
+童顺 (English name: Tong shun)<tongshun@tongshun.tech>
 20250814
