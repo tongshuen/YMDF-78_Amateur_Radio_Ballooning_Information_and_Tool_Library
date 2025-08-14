@@ -1,0 +1,21 @@
+AEI license v1.0
+
+Anti-entropy increase license
+
+[i] This agreement is similar to MIT/BSD (only similar, not the sameIt also has the characteristics of GPL.), but it specifies the architecture of the file tree. If you are a very small project (or do not need multiple people to cooperate), and you are not afraid of entropy increase, you can consider using MIT or BSD after careful consideration.
+1. You can perform the following actions:
+◦ Copy, distribute, modify, or perform any other action on the files in this repository(However, all derivative works must be released under this agreement or a higher version of this agreement, and commercial.)
+2. You cannot perform the following actions:
+◦ Any act that violates the law
+◦ Violations of formatting requirements (see below)
+3. Format specification:
+For new files, a new directory should be created in the appropriate path, and the name should be short and reflect the content.
+◦ Then create a README.md file in that directory, detailing the directory and its contents.Data can then be stored!
+[i] The file parser must be placed in the /j directory under the root directory of the repository, in the format {applicable file extension}.cpp/.c/.cs/.py (for example: flac.py, png.c, tar.gz.cs).However, the parser and its dependencies must be free code. If there are dependencies that need to be installed separately, please add a comment "-----Dependency Installation-----" at the beginning of the code, and fill in the command for installing the dependency in that column. The parser needs to be uploaded by those who use the new format for the first time. If someone has uploaded it before, there is no need to upload it again.
+[i] No need to write parsers for .cpp, .c, .cs, .py. The definition of free code is that the code can be freely copied, distributed, modified, and any other operation.
+3.1 Cases of violation of the format rules:
+◦ Please correct it, otherwise the warehouse owner has the right to delete the directory or file.
+[i] We recommend using lossless compression formats (such as .flac, .png), and the original format (such as .wav, .bmp) needs to be lossless compressed;If the video is difficult to compress without loss, it is recommended to pack it as .tar.gz. Compressed files (such as .mp3, .jpeg) do not need to be converted to .flac or .png format
+
+童顺 (English name: Tong shun)
+20250814
